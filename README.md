@@ -1,0 +1,2 @@
+# taircoin
+Currency
